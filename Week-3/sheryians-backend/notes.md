@@ -1,7 +1,6 @@
 ## BACKEND LEARN WHAT MATTERS 
 
 <h1> Understanding the Internet </h1>
----
 - The internet is a global network of computers that are all connected to each other.
 
 -It allows you to send and receive data, access websites, communicate, and share information across the world.
