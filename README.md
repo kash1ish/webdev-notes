@@ -22,7 +22,10 @@ This cohort focuses on becoming a full-stack developer (0 → 1) and advanced sy
 
 ## 📚 Weekly Notes & Assignments (0 → 1 Phase)
 
+<h1>WEEK-0</h1>
+- Topics: HTML, CSS
+- Notes: Week-0/notes.md
+- Assignment: Zerodha Landing Page
 
----
 
 
